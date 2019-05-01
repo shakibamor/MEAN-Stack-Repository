@@ -1,0 +1,1 @@
+This Angular 7 application uses Express 4 framework for backend.
